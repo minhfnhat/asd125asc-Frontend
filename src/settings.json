@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unleash peak productivity with our innovative solutions built for the modern professional.",
+        "title": "Elevate Your Workspace"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash peak productivity with our innovative solutions built for the modern professional.",
+        "title": "Elevate Your Workspace"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unleash peak productivity with our innovative solutions built for the modern professional.",
+        "title": "Elevate Your Workspace"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unleash peak productivity with our innovative solutions built for the modern professional.",
+        "title": "Elevate Your Workspace"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash peak productivity with our innovative solutions built for the modern professional.",
+        "title": "Elevate Your Workspace"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unleash peak productivity with our innovative solutions built for the modern professional.",
+        "title": "Elevate Your Workspace"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash peak productivity with our innovative solutions built for the modern professional.",
+        "title": "Elevate Your Workspace"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash peak productivity with our innovative solutions built for the modern professional.",
+        "title": "Elevate Your Workspace"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Elevate Your Workspace",
+  "subtitle": "Unleash peak productivity with our innovative solutions built for the modern professional."
+}
